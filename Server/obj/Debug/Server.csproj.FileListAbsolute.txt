@@ -1,0 +1,10 @@
+D:\LTWINDOWS\Chat_Phap\Server\bin\Debug\Server.exe.config
+D:\LTWINDOWS\Chat_Phap\Server\bin\Debug\Server.exe
+D:\LTWINDOWS\Chat_Phap\Server\bin\Debug\Server.pdb
+D:\LTWINDOWS\Chat_Phap\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+D:\LTWINDOWS\Chat_Phap\Server\obj\Debug\Server.Properties.Resources.resources
+D:\LTWINDOWS\Chat_Phap\Server\obj\Debug\Server.Server.resources
+D:\LTWINDOWS\Chat_Phap\Server\obj\Debug\Server.csproj.GenerateResource.cache
+D:\LTWINDOWS\Chat_Phap\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+D:\LTWINDOWS\Chat_Phap\Server\obj\Debug\Server.exe
+D:\LTWINDOWS\Chat_Phap\Server\obj\Debug\Server.pdb
